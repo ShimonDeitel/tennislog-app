@@ -1,0 +1,20 @@
+{
+  "identifier" : "Tennislog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "tennislog_pro",
+      "localizations" : [
+        { "description" : "Win/loss trend charts and drill-frequency insights", "displayName" : "Tennislog Pro", "locale" : "en_US" }
+      ],
+      "productID" : "com.shimondeitel.tennislog.pro",
+      "referenceName" : "Tennislog Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : { "_storeKitErrors" : [] },
+  "subscriptionGroups" : [],
+  "version" : { "major" : 3, "minor" : 0 }
+}
